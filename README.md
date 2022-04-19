@@ -29,7 +29,8 @@
 
   <p align="center">
     Utilizing Passive Aggressive Classifier to identify fake news
-    <br />
+    <br /><br />
+    <a href = https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q/view>dataset here</a>
   </p>
 </div>
 
@@ -78,12 +79,12 @@ TfidVectorizer converts a collection of raw documents to a matrix of TF-IDF feat
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Model Training and Model Results
+PassiveAggressiveScaler's algorithm remains passive for a correct classification outcome, and turns aggressive in the when there's a miscalculation. The algorithm then updates and adjusts.
 
-After training the model we achieved a relatively good accuracy of 93%
 
 ![image](https://user-images.githubusercontent.com/29911769/163940753-0cfd68d0-eef6-4cec-a38e-1eecc2be0dba.png)
 
-
+After training the model we achieved a relatively good accuracy of 93%
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
